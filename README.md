@@ -1,5 +1,7 @@
 # Memorias
 Memoria Dinamica
+
+
 class MemoriaDinamica:
     def main(self):
         frutas = []  
@@ -20,6 +22,8 @@ memoria_dinamica.main()
 
 
 Memoria Estatica
+
+
 class MemoriaEstatica:
     def main(self):
         calificaciones = [0] * 5  
